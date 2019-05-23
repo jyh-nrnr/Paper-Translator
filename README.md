@@ -3,7 +3,7 @@ Eng to Kor Translator for paper(.PDF)
 
 # Description
 논문번역기입니다. PDF 양식의 텍스트에 포함된 개행문자를 제거해주고, 원문과 번역 결과에 문장마다 라벨을 더해 작업 편의성을 높였습니다.
-![GUI](./README image/실행화면.png)
+![GUI](/README image/실행화면.png)
 
 
 # Direction
